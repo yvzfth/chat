@@ -6,6 +6,8 @@ if not installed redis
 run the app
 ``
 npm i
+
 redis-stack-server
+
 npm run dev
 ``
